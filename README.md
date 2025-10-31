@@ -16,8 +16,7 @@ Sinh viên có thể hỏi về mọi thứ, từ:
 * Và bất kỳ quy định nào khác.
 
 ## 📸 Demo
-
-(https://github.com/user-attachments/assets/542e4ff0-8389-4656-8b44-18c7184861e6)
+![Demo Giao diện Chatbot](https://github.com/user-attachments/assets/542e4ff0-8389-4656-8b44-18c7184861e6)
 
 ## ✨ Tính năng chính
 
