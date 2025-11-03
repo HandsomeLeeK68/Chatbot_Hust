@@ -80,4 +80,10 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
+*Bước 4: Tải mô hình LLM (vì Github không cho phép upload file > 100Mb)*
+```bash
+Link tải model llm: https://huggingface.co/vilm/vinallama-7b-chat-GGUF/tree/main
+Tùy chọn: các bạn có thể tải thêm các file khác để làm đa dạng input cho mô hình RAG học
+```
+
 Truy cập vào URL: localhost:8502
