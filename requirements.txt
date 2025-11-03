@@ -1,0 +1,4 @@
+ctransformers
+faiss-cpu
+sentence-transformers
+streamlit
