@@ -64,7 +64,20 @@ Bạn có thể chạy dự án này hoàn toàn trên máy cục bộ (offline)
 
 ### 2. Các bước cài đặt
 
-*Bước 1: Clone kho lưu trữ*
+*Bước 1: Cài đặt môi trường ảo*
 ```bash
-git clone [https://github.com/ten-cua-ban/ten-du-an.git](https://github.com/ten-cua-ban/ten-du-an.git)
-cd ten-du-an
+python -m venv venv
+.\venv\Scripts\activate
+```
+
+*Bước 2: Tải các thư viện cần thiết*
+```bash
+pip install -r requirements.txt
+```
+
+*Bước 3: Deploy lên local*
+```bash
+streamlit run app.py
+```
+
+Truy cập vào URL: localhost:8502
